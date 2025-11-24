@@ -31,6 +31,9 @@ class MainActivity : ComponentActivity() {
 }
 //
 //第二行註解
+fun test(){
+    
+}
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
