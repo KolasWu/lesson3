@@ -30,6 +30,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 //
+//第二行註解
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
